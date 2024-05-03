@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hugo\\Downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|C:\\Users\\Hugo\\Downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\torres_de_hanoi\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|c:\\users\\hugo\\downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\torres_de_hanoi\\hanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\hanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|C:\\Users\\Hugo\\Downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\torres_de_hanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|C:\\Users\\Hugo\\Downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\torres_de_hanoi\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4825FBA-34D9-4C02-B9F4-8B722AD78E11}|Torres_de_Hanoi\\Torres_de_Hanoi.csproj|solutionrelative:torres_de_hanoi\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\Torres_de_Hanoi\\Program.cs",
+              "RelativeDocumentMoniker": "Torres_de_Hanoi\\Program.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\Torres_de_Hanoi\\Program.cs",
+              "RelativeToolTip": "Torres_de_Hanoi\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:08:35.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\Torres_de_Hanoi\\Pila.cs",
+              "RelativeDocumentMoniker": "Torres_de_Hanoi\\Pila.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\Torres_de_Hanoi\\Pila.cs",
+              "RelativeToolTip": "Torres_de_Hanoi\\Pila.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:08:03.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hanoi.cs",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\Torres_de_Hanoi\\Hanoi.cs",
+              "RelativeDocumentMoniker": "Torres_de_Hanoi\\Hanoi.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\Torres_de_Hanoi\\Hanoi.cs",
+              "RelativeToolTip": "Torres_de_Hanoi\\Hanoi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:07:58.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Disco.cs",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\Torres_de_Hanoi\\Disco.cs",
+              "RelativeDocumentMoniker": "Torres_de_Hanoi\\Disco.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Downloads\\torres-de-hanoi-master\\torres-de-hanoi-master\\Torres_de_Hanoi\\Disco.cs",
+              "RelativeToolTip": "Torres_de_Hanoi\\Disco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:06:49.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
